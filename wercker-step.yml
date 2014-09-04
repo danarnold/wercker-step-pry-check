@@ -1,0 +1,3 @@
+name: pry-check
+version: 0.1.0
+description: Check for binding.pry in project directory
